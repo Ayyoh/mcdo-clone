@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:Poppins, sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background: rgb(217,185,155);
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    background:orange;
+    width: 500px;
+    height:600px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.card-image {
+    height: 350px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius:15px 15px 0 0;
+}
+
+.burger {
+    background-image: url(20190620160543-mcdonalds-vegan-burger\ \(1\).jpg);
+}
+
+.burger {
+    background-image: url(20190620160543-mcdonalds-vegan-burger\ \(1\).jpg);
+}
+
+.burger {
+    background-image: url(20190620160543-mcdonalds-vegan-burger\ \(1\).jpg);
+}
+
+.card h2 {
+    padding: 10px;
+}
+
+.card p {
+    padding: 10px;
+}
+
+.card a {
+    background-color: orange;
+    color: black;
+    padding:1px 4px; 
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+    border-radius: 15px;
+}
+
+.intro{
+    height: 70px;
+    width: 350px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+
+
+.card a:hover {
+    background-color: rgb(62,62,62,);
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+}
+
+.backgroundbanner {
+    background-image: url(chick\ fell.jpg);
+}
+
+.img>img {
+    width: 100%;
+    height: 50%;
+}
+
+.img {
+    width: 100%;
+    height: 50%;
+}
+
+#btn {
+    background-color: transparent;
+    border: 0;
+}
+
+.chickenmcdo {
+    background-image: url(2pcChickenRice-500.jpeg);
+}
+
+.chicken1pc {
+    background-image: url(1pcchickenmcdo.jpg);
+}
+
+.nuggets {
+    background-image:url(6pcNuggestswFries-500.jpeg);
+}
+
+.chickenfill {
+    background-image: url(chickenfill.jpg);
+}
+
+.fries {
+    background-image: url(fries);
+}
+
+.mcflurry {
+    background-image:url(mcflurry.jpg);
+}
+
+.vanilla {
+    background-image:url(vanilla.jpg);
+}
+
+.sunday{
+    background-image:url(sunday2.jpg);
+}
+
+.cokefloat {
+    background-image:url(cokefloat.jpg);
+}
+
+.Cafe {
+    background-image:url(caffe.jpg);
+}
+
+.Latte {
+    background-image:url(iiimages.jfif);
+}
+
+.egg {
+    background-image: url(egg.jpg);
+}
+
+#ehh3 {
+    margin-left:110px;
+    margin-top:50px;
+    background-color: orange;
+    color: black;
+    padding:1px 4px; 
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+    border-radius: 15px;
+}
+
+.Property {
+    image-resolution: 150px;
+}
+
+h1 {
+    text-align: center;
+    color: Orange;
+}
+
+.buns {
+    background-image: url(buns.jpg);
+}
+
+

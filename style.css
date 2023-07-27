@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+}
+body{
+    height: 100vh;
+}
+.container{
+    display: flex;
+}
+.card{
+    height: 350px;
+    margin: 34px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+}
+img{
+    height:188px;
+    width: 250px;
+    border-radius: 100px;
+}
+.intro{
+    height: 70px;
+    width: 350px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+}
